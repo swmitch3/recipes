@@ -3,7 +3,7 @@ layout: post
 title: "Chipotle Mayo"
 date: 2022-07-16
 source: Frost Mitchell
-tags: [bard, condiment]
+tags: [bard, level1, enchantment]
 ---
 
 **Ingredients**
